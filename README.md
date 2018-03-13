@@ -1,5 +1,5 @@
 ## Simple Implementation of 3 Popular Graph Algorithms
-### Breadth-First Search, Depth-First Search, and Iterative Deepening Depth-First Search
+### BFS, DFS, and IDDFS
 
 #### You can read about each algorithm in their respective Wikipedia article:
 * [Breadth-First Search](https://en.wikipedia.org/wiki/Breadth-first_search)
